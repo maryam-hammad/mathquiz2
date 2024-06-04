@@ -1,0 +1,31 @@
+body{
+    background: lightcoral;
+}
+
+#send_button{
+    width: 100px;
+    height: 70px;
+    border-radius: 15px;
+    background: coral;
+}
+
+#input_number1{
+    width: 99px;
+    height: 50px;
+}
+#input_number2{
+    width: 99px;
+    height: 50px;
+}
+
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid purple;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+
